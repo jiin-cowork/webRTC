@@ -1,0 +1,20 @@
+{
+  "name": "webrtc-videochat",
+  "version": "0.1.0",
+  "description": "webrtc-videochat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Author",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "http": "0.0.1-security",
+    "ws": "^7.3.1"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2"
+  }
+}
